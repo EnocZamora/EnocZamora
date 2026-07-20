@@ -3,18 +3,18 @@
   <img src="https://i.pinimg.com/1200x/75/ca/bd/75cabd560f352e1b8637196f39cb8758.jpg" alt="Banner de Portada" width="100%">
 </p>
 
-<!-- LOGOS DE REDES SOCIALES (ICONOS VECTORIALES PUROS - RESPONSIVOS) -->
+<!-- LOGOS DE REDES SOCIALES (COLORES ORIGINALES - SOLO ICONO - RESPONSIVOS EN MODO OSCURO/CLARO) -->
 <p align="center">
   <a href="https://instagram.com/ez_html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="35px" style="filter: invert(27%) sepia(91%) saturate(2371%) hue-rotate(320deg) brightness(97%) contrast(93%);" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="42px" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/50582813202" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="35px" style="filter: invert(61%) sepia(76%) saturate(464%) hue-rotate(86deg) brightness(93%) contrast(88%);" alt="WhatsApp" />
+    <img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="38px" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ilovesleep_15" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="35px" style="filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(0%) contrast(100%);" alt="X" />
+    <img src="https://api.iconify.design/ri:twitter-x-fill.svg" width="38px" style="filter: contrast(0) brightness(1.5);" alt="X" />
   </a>
 </p>
 
