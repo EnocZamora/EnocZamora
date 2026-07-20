@@ -3,18 +3,18 @@
   <img src="https://i.pinimg.com/1200x/75/ca/bd/75cabd560f352e1b8637196f39cb8758.jpg" alt="Banner de Portada" width="100%">
 </p>
 
-<!-- LOGOS DE REDES SOCIALES (MINIMALISTAS Y RESPONSIVOS) -->
+<!-- LOGOS DE REDES SOCIALES (LIBRERÍA SIMPLE-ICONS MONOCROMÁTICA/COLOR PURE) -->
 <p align="center">
   <a href="https://instagram.com/ez_html" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/instagram.svg" width="36px" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-%23ffffff?style=flat&logo=instagram&logoColor=%23E4405F" height="35px" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/50582813202" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/whatsapp.svg" width="36px" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-WhatsApp-%23ffffff?style=flat&logo=whatsapp&logoColor=%2325D366" height="35px" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ilovesleep_15" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/twitter.svg" width="36px" alt="X" />
+    <img src="https://img.shields.io/badge/-X-%23ffffff?style=flat&logo=x&logoColor=%23000000" height="35px" alt="X" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 <hr>
 
-<!-- SECCIÓN DE TECNOLOGÍAS (SIN SUBLIME Y CON RETÍCULA UNIFORME) -->
+<!-- SECCIÓN DE TECNOLOGÍAS DIVIDIDA -->
 <p align="center">
   <h2>⚔️ Habilidades y Herramientas</h2>
   
