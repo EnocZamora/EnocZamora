@@ -1,20 +1,20 @@
-<!-- BANNER DE PORTADA PERFECTAMENTE CENTRADO -->
+<!-- BANNER DE PORTADA (SOLUCIÓN DEFINITIVA) -->
 <p align="center">
-  <img src="resourse/banner.jpg" alt="https://i.pinimg.com/1200x/75/ca/bd/75cabd560f352e1b8637196f39cb8758.jpg" width="100%">
+  <img src="resourse/banner.jpg" alt="Banner de Portada" width="100%">
 </p>
 
-<!-- LOGOS DE REDES SOCIALES PUROS Y MINIMALISTAS -->
+<!-- LOGOS DE REDES SOCIALES (FONT AWESOME PURO Y MINIMALISTA) -->
 <p align="center">
   <a href="https://instagram.com/ez_html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45px" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-v14?style=flat&logo=instagram&logoColor=%23E4405F&color=white" height="35px" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/50582813202" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg" width="40px" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-v14?style=flat&logo=whatsapp&logoColor=%2325D366&color=white" height="35px" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ilovesleep_15" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45px" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-v14?style=flat&logo=x&logoColor=black&color=white" height="35px" alt="X (Twitter)" />
   </a>
 </p>
 
