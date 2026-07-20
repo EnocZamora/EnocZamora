@@ -6,15 +6,15 @@
 <!-- LOGOS DE REDES SOCIALES (COLORES ORIGINALES - SOLO ICONO - RESPONSIVOS EN MODO OSCURO/CLARO) -->
 <p align="center">
   <a href="https://instagram.com/ez_html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="42px" alt="Instagram" />
+    <img src="![alt text](image-3.png)" width="42px" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/50582813202" target="_blank">
-    <img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="38px" alt="WhatsApp" />
+    <img src="![alt text](image.png)" width="38px" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ilovesleep_15" target="_blank">
-    <img src="https://api.iconify.design/ri:twitter-x-fill.svg" width="38px" style="filter: contrast(0) brightness(1.5);" alt="X" />
+    <img src="![alt text](image-2.png)" width="38px" style="filter: contrast(0) brightness(1.5);" alt="X" />
   </a>
 </p>
 
