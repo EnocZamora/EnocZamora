@@ -3,18 +3,18 @@
   <img src="https://i.pinimg.com/1200x/75/ca/bd/75cabd560f352e1b8637196f39cb8758.jpg" alt="Banner de Portada" width="100%">
 </p>
 
-<!-- LOGOS DE REDES SOCIALES (DISEÑOS OFICIALES Y RESPONSIVOS) -->
+<!-- LOGOS DE REDES SOCIALES (MINIMALISTAS Y RESPONSIVOS) -->
 <p align="center">
   <a href="https://instagram.com/ez_html" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="38px" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/instagram.svg" width="36px" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/50582813202" target="_blank">
-    <img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="36px" alt="WhatsApp" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/whatsapp.svg" width="36px" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ilovesleep_15" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:twitter.svg" width="38px" alt="X" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-hero/main/public/icons/socials/twitter.svg" width="36px" alt="X" />
   </a>
 </p>
 
@@ -31,12 +31,12 @@
 
 <hr>
 
-<!-- SECCIÓN DE TECNOLOGÍAS (UNIFORMES Y ADAPTABLES) -->
+<!-- SECCIÓN DE TECNOLOGÍAS (SIN SUBLIME Y CON RETÍCULA UNIFORME) -->
 <p align="center">
   <h2>⚔️ Habilidades y Herramientas</h2>
   
   <h3>🚀 Tecnologías Aprendidas</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,sublime,vscode,linux,git,mssql" alt="Aprendido" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,linux,git,mssql" alt="Aprendido" />
   
   <br><br>
   
@@ -46,7 +46,7 @@
 
 <hr>
 
-<!-- ESTADÍSTICAS (GRÁFICO ESTABLE) -->
+<!-- ESTADÍSTICAS -->
 <p align="center">
   <h2>📊 Actividad de GitHub</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnocZamora&theme=github-light" alt="Gráfico de Contribuciones" width="97%" />
