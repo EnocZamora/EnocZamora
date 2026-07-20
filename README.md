@@ -3,18 +3,18 @@
   <img src="https://i.pinimg.com/1200x/75/ca/bd/75cabd560f352e1b8637196f39cb8758.jpg" alt="Banner de Portada" width="100%">
 </p>
 
-<!-- LOGOS DE REDES SOCIALES (ICONOS PUROS Y MINIMALISTAS) -->
+<!-- LOGOS DE REDES SOCIALES (ESTILO BOOTSTRAP IC0NS - MINIMALISTA PURO) -->
 <p align="center">
   <a href="https://instagram.com/ez_html" target="_blank">
-    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="42px" alt="Instagram" />
+    <img src="https://api.iconify.design/bi:instagram.svg" width="35px" style="filter: brightness(0);" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/50582813202" target="_blank">
-    <img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="38px" alt="WhatsApp" />
+    <img src="https://api.iconify.design/bi:whatsapp.svg" width="35px" style="filter: brightness(0);" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ilovesleep_15" target="_blank">
-    <img src="https://api.iconify.design/ri:twitter-x-fill.svg" width="38px" alt="X" />
+    <img src="https://api.iconify.design/bi:twitter-x.svg" width="35px" style="filter: brightness(0);" alt="X" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
   <h2>⚔️ Habilidades y Herramientas</h2>
   
   <h3>🚀 Tecnologías Aprendidas</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mssql,sublime,vscode,linux,git&theme=light" alt="Aprendido" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mssql,vscode,linux,git&theme=light" alt="Aprendido" />
   
   <br><br>
   
