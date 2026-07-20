@@ -1,6 +1,6 @@
 <!-- BANNER DE PORTADA (SOLUCIÓN DEFINITIVA) -->
 <p align="center">
-  <img src="resourse/banner.jpg" alt="Banner de Portada" width="100%">
+  <img src="recursos/banner.jpg" alt="Banner de Portada" width="100%">
 </p>
 
 <!-- LOGOS DE REDES SOCIALES (FONT AWESOME PURO Y MINIMALISTA) -->
