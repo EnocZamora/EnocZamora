@@ -1,20 +1,20 @@
-<!-- BANNER DE PORTADA DEFINITIVO -->
+<!-- BANNER DE PORTADA DEFINITIVO (URL DIRECTA PARA QUE NO FALLE) -->
 <p align="center">
   <img src="https://i.pinimg.com/1200x/75/ca/bd/75cabd560f352e1b8637196f39cb8758.jpg" alt="Banner de Portada" width="100%">
 </p>
 
-<!-- LOGOS DE REDES SOCIALES (FONT AWESOME PURO Y MINIMALISTA) -->
+<!-- LOGOS DE REDES SOCIALES (ICONOS PUROS Y MINIMALISTAS) -->
 <p align="center">
   <a href="https://instagram.com/ez_html" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-v14?style=flat&logo=instagram&logoColor=%23E4405F&color=white" height="35px" alt="Instagram" />
+    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="42px" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/50582813202" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-v14?style=flat&logo=whatsapp&logoColor=%2325D366&color=white" height="35px" alt="WhatsApp" />
+    <img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="38px" alt="WhatsApp" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ilovesleep_15" target="_blank">
-    <img src="https://img.shields.io/badge/X-v14?style=flat&logo=x&logoColor=black&color=white" height="35px" alt="X (Twitter)" />
+    <img src="https://api.iconify.design/ri:twitter-x-fill.svg" width="38px" alt="X" />
   </a>
 </p>
 
@@ -36,35 +36,18 @@
   <h2>⚔️ Habilidades y Herramientas</h2>
   
   <h3>🚀 Tecnologías Aprendidas</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,sublime,linux,git&theme=light" alt="Aprendido" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mssql,sublime,vscode,linux,git&theme=light" alt="Aprendido" />
   
   <br><br>
   
   <h3>⏳ En Proceso de Aprendizaje</h3>
-  <img src="https://skillicons.dev/icons?i=php,mysql&theme=light" alt="En Proceso" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,cs&theme=light" alt="En Proceso" />
 </p>
 
 <hr>
 
-<!-- ESTADÍSTICAS DINÁMICAS -->
+<!-- ESTADÍSTICAS (SÓLO EL GRÁFICO ESTABLE) -->
 <p align="center">
-  <h2>📊 Estadísticas de GitHub</h2>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/EnocZamora?label=Seguidores&style=flat-square&color=blue" alt="Seguidores">
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/EnocZamora?label=Estrellas%20Totales&style=flat-square&color=yellow" alt="Estrellas">
-  &nbsp;
-  <img src="https://img.shields.io/github/repo-size/EnocZamora/EnocZamora?label=Tamaño%20del%20Perfil&style=flat-square&color=lightgrey" alt="Tamaño">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EnocZamora&theme=flat&column=4&margin-w=15&no-bg=true" alt="Mis Trofeos" width="97%" />
-</p>
-
-<br>
-
-<p align="center">
+  <h2>📊 Actividad de GitHub</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnocZamora&theme=github-light" alt="Gráfico de Contribuciones" width="97%" />
 </p>
