@@ -1,16 +1,26 @@
 <!-- BANNER DE PORTADA PERFECTAMENTE CENTRADO -->
 <p align="center">
-  <img src="resourse/banner.jpg" alt="Welcome to Ezequiel's GitHub" width="100%">
+  <img src="resourse/banner.jpg" alt="https://i.pinimg.com/1200x/75/ca/bd/75cabd560f352e1b8637196f39cb8758.jpg" width="100%">
 </p>
 
-<!-- BOTÓN DE INSTAGRAM PREMIUM CON SU COLOR ORIGINAL -->
+<!-- LOGOS DE REDES SOCIALES PUROS Y MINIMALISTAS -->
 <p align="center">
-  <a href="https://instagram.com/ez_html"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://instagram.com/ez_html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45px" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/50582813202" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/whatsapp.svg" width="40px" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/ilovesleep_15" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45px" alt="X (Twitter)" />
+  </a>
 </p>
 
 <hr>
 
-<!-- SECCIÓN SOBRE MÍ (TU COMPLEMENTO ADAPTADO) -->
+<!-- SECCIÓN SOBRE MÍ -->
 <p align="center">
   <h2>👋 ¡Hola! Soy Ezequiel</h2>
   Estudiante de programación enfocado en la creación de aplicaciones web y la gestión de bases de datos. <br>
@@ -21,27 +31,40 @@
 
 <hr>
 
-<!-- SECCIÓN DE TECNOLOGÍAS -->
+<!-- SECCIÓN DE TECNOLOGÍAS DIVIDIDA -->
 <p align="center">
   <h2>⚔️ Habilidades y Herramientas</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,sublime,linux,git&theme=light" alt="Mis Tecnologías" />
+  
+  <h3>🚀 Tecnologías Aprendidas</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,sublime,linux,git&theme=light" alt="Aprendido" />
+  
+  <br><br>
+  
+  <h3>⏳ En Proceso de Aprendizaje</h3>
+  <img src="https://skillicons.dev/icons?i=php,mysql&theme=light" alt="En Proceso" />
 </p>
 
 <hr>
 
-<!-- ESTADÍSTICAS DINÁMICAS (CORREGIDAS) -->
+<!-- ESTADÍSTICAS DINÁMICAS -->
 <p align="center">
   <h2>📊 Estadísticas de GitHub</h2>
 </p>
 
 <p align="center">
-  <!-- REEMPLAZA EL TEXTO 'TU_USUARIO_AQUÍ' POR TU NOMBRE DE USUARIO REAL DE GITHUB ABAJO -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EnocZamora&show_icons=true&theme=default" alt="Estadísticas Generales" width="48%" />
+  <img src="https://img.shields.io/github/followers/EnocZamora?label=Seguidores&style=flat-square&color=blue" alt="Seguidores">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnocZamora&layout=compact&theme=default" alt="Lenguajes Más Usados" width="48%" />
+  <img src="https://img.shields.io/github/stars/EnocZamora?label=Estrellas%20Totales&style=flat-square&color=yellow" alt="Estrellas">
+  &nbsp;
+  <img src="https://img.shields.io/github/repo-size/EnocZamora/EnocZamora?label=Tamaño%20del%20Perfil&style=flat-square&color=lightgrey" alt="Tamaño">
 </p>
 
-<!-- GRÁFICO DE ACTIVIDAD COMPLETO -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EnocZamora&theme=flat&column=4&margin-w=15&no-bg=true" alt="Mis Trofeos" width="97%" />
+</p>
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnocZamora&theme=github-light" alt="Gráfico de Contribuciones" width="97%" />
 </p>
