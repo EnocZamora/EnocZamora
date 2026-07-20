@@ -1,20 +1,20 @@
-<!-- BANNER DE PORTADA DEFINITIVO (URL DIRECTA PARA QUE NO FALLE) -->
+<!-- BANNER DE PORTADA DEFINITIVO -->
 <p align="center">
   <img src="https://i.pinimg.com/1200x/75/ca/bd/75cabd560f352e1b8637196f39cb8758.jpg" alt="Banner de Portada" width="100%">
 </p>
 
-<!-- LOGOS DE REDES SOCIALES (ESTILO BOOTSTRAP IC0NS - MINIMALISTA PURO) -->
+<!-- LOGOS DE REDES SOCIALES (DISEÑOS OFICIALES Y RESPONSIVOS) -->
 <p align="center">
   <a href="https://instagram.com/ez_html" target="_blank">
-    <img src="https://api.iconify.design/bi:instagram.svg" width="35px" style="filter: brightness(0);" alt="Instagram" />
+    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="38px" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/50582813202" target="_blank">
-    <img src="https://api.iconify.design/bi:whatsapp.svg" width="35px" style="filter: brightness(0);" alt="WhatsApp" />
+    <img src="https://api.iconify.design/logos:whatsapp-icon.svg" width="36px" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ilovesleep_15" target="_blank">
-    <img src="https://api.iconify.design/bi:twitter-x.svg" width="35px" style="filter: brightness(0);" alt="X" />
+    <img src="https://api.iconify.design/skill-icons:twitter.svg" width="38px" alt="X" />
   </a>
 </p>
 
@@ -31,22 +31,22 @@
 
 <hr>
 
-<!-- SECCIÓN DE TECNOLOGÍAS DIVIDIDA -->
+<!-- SECCIÓN DE TECNOLOGÍAS (UNIFORMES Y ADAPTABLES) -->
 <p align="center">
   <h2>⚔️ Habilidades y Herramientas</h2>
   
   <h3>🚀 Tecnologías Aprendidas</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mssql,vscode,linux,git&theme=light" alt="Aprendido" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,sublime,vscode,linux,git,mssql" alt="Aprendido" />
   
   <br><br>
   
   <h3>⏳ En Proceso de Aprendizaje</h3>
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,cs&theme=light" alt="En Proceso" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,cs" alt="En Proceso" />
 </p>
 
 <hr>
 
-<!-- ESTADÍSTICAS (SÓLO EL GRÁFICO ESTABLE) -->
+<!-- ESTADÍSTICAS (GRÁFICO ESTABLE) -->
 <p align="center">
   <h2>📊 Actividad de GitHub</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnocZamora&theme=github-light" alt="Gráfico de Contribuciones" width="97%" />
