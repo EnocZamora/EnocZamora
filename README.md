@@ -1,6 +1,6 @@
 <!-- BANNER DE PORTADA PERFECTAMENTE CENTRADO -->
 <p align="center">
-  <img src="WhatsApp Image 2026-07-20 at 3.10.29 PM.png" alt="Welcome to Ezequiel's GitHub" width="100%">
+  <img src="resourse/banner.jpg" alt="Welcome to Ezequiel's GitHub" width="100%">
 </p>
 
 <!-- BOTÓN DE INSTAGRAM PREMIUM CON SU COLOR ORIGINAL -->
@@ -36,12 +36,12 @@
 
 <p align="center">
   <!-- REEMPLAZA EL TEXTO 'TU_USUARIO_AQUÍ' POR TU NOMBRE DE USUARIO REAL DE GITHUB ABAJO -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=default" alt="Estadísticas Generales" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EnocZamora&show_icons=true&theme=default" alt="Estadísticas Generales" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=default" alt="Lenguajes Más Usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnocZamora&layout=compact&theme=default" alt="Lenguajes Más Usados" width="48%" />
 </p>
 
 <!-- GRÁFICO DE ACTIVIDAD COMPLETO -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_AQUÍ&theme=github-light" alt="Gráfico de Contribuciones" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnocZamora&theme=github-light" alt="Gráfico de Contribuciones" width="97%" />
 </p>
