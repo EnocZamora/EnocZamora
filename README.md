@@ -3,18 +3,18 @@
   <img src="https://i.pinimg.com/1200x/75/ca/bd/75cabd560f352e1b8637196f39cb8758.jpg" alt="Banner de Portada" width="100%">
 </p>
 
-<!-- LOGOS DE REDES SOCIALES (LIBRERÍA SIMPLE-ICONS MONOCROMÁTICA/COLOR PURE) -->
+<!-- LOGOS DE REDES SOCIALES (ICONOS VECTORIALES PUROS - RESPONSIVOS) -->
 <p align="center">
   <a href="https://instagram.com/ez_html" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23ffffff?style=flat&logo=instagram&logoColor=%23E4405F" height="35px" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="35px" style="filter: invert(27%) sepia(91%) saturate(2371%) hue-rotate(320deg) brightness(97%) contrast(93%);" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/50582813202" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-%23ffffff?style=flat&logo=whatsapp&logoColor=%2325D366" height="35px" alt="WhatsApp" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="35px" style="filter: invert(61%) sepia(76%) saturate(464%) hue-rotate(86deg) brightness(93%) contrast(88%);" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ilovesleep_15" target="_blank">
-    <img src="https://img.shields.io/badge/-X-%23ffffff?style=flat&logo=x&logoColor=%23000000" height="35px" alt="X" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="35px" style="filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(0%) contrast(100%);" alt="X" />
   </a>
 </p>
 
