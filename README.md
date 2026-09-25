@@ -1,6 +1,16 @@
-<p align="center">
-  <img src="https://static.myfigurecollection.net/upload/pictures/2024/08/10/4106447.gif" height="220" style="max-width: 100%; object-fit: cover; border-radius: 8px;" alt="Portada" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://static.myfigurecollection.net/upload/pictures/2024/08/10/4106447.gif" height="190" style="border-radius: 10px; object-fit: cover;" alt="Saya" />
+    </td>
+    <td width="65%" align="left" valign="middle">
+      <h1><code>&lt;Hello World /&gt;</code> 🥩</h1>
+      <h3><b>Bienvenido a mi perfil de GitHub</b></h3>
+      <p><i>"Transformando ideas abstractas en software funcional, eficiente y escalable."</i></p>
+      <p><b> Full-Stack Developer | Database Specialist</b></p>
+    </td>
+  </tr>
+</table>
 
 # 🖐️ ¡Hola, Soy Enoc!
 
