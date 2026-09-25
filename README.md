@@ -1,11 +1,12 @@
 
+![Portada](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ez_html)
 # Hola, Soy Enoc!!
 
-# 💫 About Me:
+# Sobre Mi:
 ``Técnico Especialista en Programación y Desarrollo Full-Stack. Mi enfoque combina la creatividad del diseño Frontend y la precisión en el manejo de Base de Datos Relacionales. Me apasiona transformar ideas abstractas en Aplicaciones Web funcionales, eficientes y completamente conectadas.``
 
 
-## 🌐 Socials:
+## Redes Sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ez_html) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zamoraenoc60@gmail.com) 
 
 # 💻 Tech Stack:
@@ -14,5 +15,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=EnocZamora&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=EnocZamora&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EnocZamora&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
