@@ -7,7 +7,7 @@
       <h1><code>&lt;Hello World /&gt;</code> 🥩</h1>
       <h3><b>Bienvenido a mi perfil de GitHub</b></h3>
       <p><i>"Transformando ideas abstractas en software funcional, eficiente y escalable."</i></p>
-      <p><b> Full-Stack Developer | Database Specialist</b></p>
+      <p><b> Full-Stack Developer | Estudiante</b></p>
     </td>
   </tr>
 </table>
