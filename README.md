@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.myfigurecollection.net/upload/pictures/2024/08/10/4106447.gif" style="width: 100%; max-height: 280px; object-fit: cover; border-radius: 8px;" alt="Portada" />
+  <img src="https://static.myfigurecollection.net/upload/pictures/2024/08/10/4106447.gif" height="220" style="max-width: 100%; object-fit: cover; border-radius: 8px;" alt="Portada" />
 </p>
 
 # 🖐️ ¡Hola, Soy Enoc!
@@ -40,17 +40,12 @@
 ---
 
 ### 📊 GitHub Stats
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.shion.dev/api?username=EnocZamora&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=EnocZamora&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=EnocZamora&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=EnocZamora&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 <p align="center">
-  <img width="100%" style="max-width: 495px;" src="https://streak-stats.demolab.com/?user=EnocZamora&theme=github_dark&hide_border=false" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=EnocZamora&theme=github_dark&hide_border=false" />
 </p>
