@@ -1,5 +1,5 @@
 
-![Portada](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ez_html)
+![Portada](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.gog.com%2Fes%2Fgame%2Fthe_song_of_saya_directors_cut&ved=0CBYQjRxqFwoTCODG-rHBipcDFQAAAAAdAAAAABA3&opi=89978449)]
 # Hola, Soy Enoc!!
 
 # Sobre Mi:
