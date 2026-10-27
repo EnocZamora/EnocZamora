@@ -1,7 +1,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="https://static.myfigurecollection.net/upload/pictures/2024/08/10/4106447.gif" height="190" style="border-radius: 10px; object-fit: cover;" alt="Saya" />
+      <img src="https://i.redd.it/lgxq3d5t2ylg1.gif" height="190" style="border-radius: 10px; object-fit: cover;" alt="Saya" />
     </td>
     <td width="65%" align="left" valign="middle">
       <h1><code>&lt;Hello World /&gt;</code> 🥩</h1>
